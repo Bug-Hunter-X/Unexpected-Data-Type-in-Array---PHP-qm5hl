@@ -1,0 +1,1 @@
+This repository contains examples of an uncommon code error in PHP where an unexpected data type is encountered in an array. The `bug.php` file demonstrates the error, while `bugSolution.php` shows how to gracefully handle this scenario using robust error handling and type checking.
